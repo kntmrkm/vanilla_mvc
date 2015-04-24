@@ -1,0 +1,41 @@
+{
+  "name": "vanilla-mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kntmrkm",
+  "license": "ISC",
+  "dependencies": {
+    "modernizr": "^3.0.0",
+    "font-awesome": "latest",
+    "bootstrap": "^3.3.4"
+  },
+  "devDependencies": {
+    "standard": "latest",
+    "vinyl-source-stream": "latest",
+    "vinyl-transform": "latest",
+    "vinyl-buffer": "latest",
+    "gulp": "latest",
+    "gulp-util": "latest",
+    "gulp-if": "latest",
+    "gulp-notify": "latest",
+    "gulp-rename": "latest",
+    "gulp-gzip": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "latest",
+    "gulp-minify-css": "latest",
+    "gulp-jade": "latest",
+    "glob": "latest",
+    "require-dir": "latest",
+    "bower": "latest",
+    "coffee-script": "latest",
+    "debowerify": "latest",
+    "browserify": "latest",
+    "coffeeify": "latest",
+    "watchify": "latest",
+    "node-notifier": "latest"
+  }
+}
