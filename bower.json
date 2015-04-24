@@ -14,6 +14,7 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "latest"
+    "jquery": "latest",
+    "bootstrap": "latest"
   }
 }
