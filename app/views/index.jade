@@ -2,8 +2,16 @@ doctype html
 html(lang="en")
   head
     title= pageTitle
+    script(src="/lib.js", type="text/javascript")
+    script(src="/semantic.js", type="text/javascript")
+    script(src="/app.js", type="text/javascript")
+    link(href="/app.css", rel="stylesheet")
     script(type='text/javascript').
       console.log('jade');
 
   body
     h1 ./public.html de.
+    i.fa.fa-twitter
+    i.glyphicon.glyphicon-search
+
+    include shared/partial

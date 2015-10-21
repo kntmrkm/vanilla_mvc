@@ -1,3 +1,14 @@
+# node
 /node_modules
 /bower_components
+
+# ruby
+/bundle
 /middleman/bundle
+
+# compass
+/compass/javascripts
+.sass-cache/
+.sass-cache/*
+
+/public

@@ -15,6 +15,18 @@
   ],
   "dependencies": {
     "jquery": "latest",
-    "bootstrap": "latest"
+    "lodash": "latest",
+    "modernizr": "latest",
+    "bluebird": "latest",
+    "semantic-ui": "latest",
+    "ratchet": "latest"
+  },
+  "overrides": {
+    "semantic-ui": {
+      "main": "ignore"
+    },
+    "ratchet": {
+      "main": "ignore"
+    }
   }
 }
